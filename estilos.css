@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+html{
+    font-size: 62.5%;
+}
+
+body{
+    font-family: 'Lobster', cursive;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background: url(pexels-photo-7033663.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.contenedor-fondo{
+    background: url(pexels-david-disponett-2161643.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.informacion-personal{
+    text-align: center;
+    padding-top: 150px;
+}
+
+.caja{
+    background-color: white;
+    width: 30%;
+    padding: 100px 0px;
+    margin: auto;
+}
+
+.contenedor-menu{
+    background-color: #DC143C;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.contenedor-menu p{
+    margin-left: 1rem;
+    font-size: 2.5rem;
+}
+
+.menu{
+    margin-right: 1rem;
+}
+
+
+.menu a{
+    text-decoration: none;
+    color: white;
+}
+
+.contenedor-titular{
+    color: white;
+    margin-top: 24rem;
+    text-align: center;
+}
+
+.contenedor-principal{
+    text-align: center;
+}
+
+img{
+    height: 260px;
+    width: 380px;
+}
+
+footer P{
+    text-align: center;
+    color: white;
+}
+
+footer{
+    background: black;
+    padding: 4rem;
+}
+
+.audio{
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+
+
+
+
